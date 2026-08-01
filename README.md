@@ -29,6 +29,9 @@ français.
   seul ensemble.
 
 ---
+## Screenshot
+
+![Dashboard](screenshot.png)
 
 ## Démarrage rapide (développement local)
 
