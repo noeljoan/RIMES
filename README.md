@@ -1,7 +1,7 @@
 # RIMES
 
 Une API REST moderne accompagnée d'une simple interface web pour le
-dictionnaire des rimes françaises avec plus de 260 000 mots
+dictionnaire des rimes françaises hors ligne avec plus de 260 000 mots
 français.
 
 > Base de données de 122 000+ mots.
